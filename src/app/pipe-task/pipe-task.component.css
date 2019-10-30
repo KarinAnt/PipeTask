@@ -1,0 +1,19 @@
+div{
+    width: 30%;
+    padding: 80px;
+    background-color: cadetblue;
+    margin:100px auto;
+}
+input{
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    border:1px solid silver;
+    font-size: 17px;
+    border-radius: 5px;
+}
+p{
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
